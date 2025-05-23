@@ -1,5 +1,5 @@
 import './styles/App.scss'
-import Cover from './components/cover/cover.component'
+import Main from './pages/main/main.page'
 import Menu from './components/menu/menu.component'
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
   return (
     <div id="app">
       <Menu />
-      <Cover />
+      <Main />
     </div>
   )
 }

@@ -1,3 +1,7 @@
+
+@use "../../styles/breakpoints.scss" as *;
+
+/* GENERAL */
 .cover__container {
     display: flex;
     align-items: center;
@@ -8,14 +12,34 @@
     width: 100%;
 
     .cover__container-title{
-        font-size: 5rem;
         text-align: center;
         max-width: 80%;
     }
 
     .cover__container-name{
-        font-size: 2rem;
         text-align: center;
         max-width: 80%;
+    }
+}
+
+/* DESKTOP */
+@media (min-width: $tablet-breakpoint) {
+    .cover__container-title{
+        font-size: 5rem;
+    }
+
+    .cover__container-name{
+        font-size: 2rem;
+    }
+}
+
+/* TABLET AND MOBILE */
+@media (max-width: $tablet-breakpoint) {
+    .cover__container-title{
+        font-size: 3.5rem;
+    }
+
+    .cover__container-name{
+        font-size: 1.5rem;
     }
 }
