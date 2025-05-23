@@ -3,7 +3,9 @@
 /* GENERAL */
 .menu__container {
 
-    position: absolute;
+    position: fixed;
+    background-color: var(--background);
+    z-index: 2;
     top: 0;
 
     height: 100px;
