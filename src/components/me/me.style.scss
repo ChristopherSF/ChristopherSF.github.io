@@ -1,0 +1,80 @@
+
+@use '../../styles/breakpoints' as *;
+
+/* GENERAL */
+.me__container {  
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+
+    .me__container_wrapper {
+  
+      position: relative;
+      height: 100%;
+      width: 100%;
+  
+      &::before {
+        content: '';
+        position: absolute;
+        background-image: url('../../assets/circle-board.png');
+        background-size: contain;
+        border-radius: 50%;
+        z-index: -1;
+      }
+  
+      img {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+        position: relative;
+        z-index: 0;
+      }
+  
+    }
+  
+}
+
+/* DESKTOP */
+@media (min-width: $phone-breakpoint) {
+    .me__container{
+
+        width: 450px;
+        height: 450px;
+
+        .me__container_wrapper {
+
+            &::before {
+                top: 140px;
+                left: 25px;
+                width: calc(100% - 50px);
+                height: calc(100% - 50px);
+            }
+
+        }
+    }
+}
+
+/* MOBILE */
+@media (max-width: $phone-breakpoint) {
+
+    .me__container {
+
+        width: 90dvw;
+        max-height: 500px;
+
+        .me__container_wrapper {
+
+            &::before {
+                top: 30%;
+                left: 25px;
+                width: calc(90dvw - 50px);
+                height: calc(90dvw - 50px);
+            }
+        
+        }
+
+    }
+
+}

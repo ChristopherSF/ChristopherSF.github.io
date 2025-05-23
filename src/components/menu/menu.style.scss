@@ -1,0 +1,131 @@
+@use '../../styles/breakpoints.scss' as *;
+
+/* GENERAL */
+.menu__container {
+
+    position: absolute;
+    top: 0;
+
+    height: 100px;
+    width: 90%;   
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    font-size: 1.3rem;
+
+    .menu__container_list { 
+
+        .menu__container_list-item {
+
+            color: var(--text-color);
+            text-decoration: none;
+            opacity: 0.8;
+
+            transition: 0.2s ease-in-out;
+            
+            &:visited {
+                color: var(--text-color)
+            }
+
+            &:hover {
+                opacity: 1;
+            }
+        }
+
+    }
+
+    .menu__container_download-cv {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+
+        border: 1px solid var(--text-color);
+        border-radius: 10px;
+        padding: 7px;
+        padding-right: 10px;
+
+        text-decoration: none;
+
+        transition: 0.2s ease-in-out;
+        cursor: pointer;
+
+        &:visited {
+            color: var(--text-color)
+        }
+
+        &:hover {
+            background-color: var(--hover-background);
+        }
+    }
+}
+
+/* DESKTOP */
+@media (min-width: $tablet-breakpoint) {
+    .menu__container_list { 
+        display: flex;
+        flex-direction: row;
+        gap: 30px;
+    }
+    .menu__container_list_icon {
+        display: none;
+    }
+    .menu__container_list_panel {
+        display: none;
+    }
+}
+
+/* TABLET AND MOBILE */
+@media (max-width: $tablet-breakpoint) {
+    .menu__container_list { 
+        display: none;
+    }
+    .menu__container_list_icon {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+
+        background-color: var(--background);
+        border: none;
+
+        font-size: 1.3rem;
+    }
+
+    .menu__container_list_panel {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        gap: 20px;
+
+        position: absolute;
+        top: 90px;
+        left: 0;
+        padding: 50px;
+        z-index: 2;
+
+        background-color: var(--background);
+        border-radius: 10px;
+        box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.15);
+
+        .menu__container_list_panel-item {
+            text-decoration: none;
+            color: var(--text-color);
+
+            opacity: 0.8;
+
+            transition: 0.3s ease-in-out;
+
+            &:visited {
+                color: var(--text-color);
+            }
+
+            &:hover {
+                opacity: 1;
+            }
+        }
+    }
+}
