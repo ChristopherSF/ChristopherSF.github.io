@@ -60,6 +60,26 @@
 
         }
     }
+
+    /* EXCEPTION FOR TABLETS */
+    @media (max-height: 700px) {
+        .me__container{
+
+            height: 50dvh;
+            width: 50dvh;
+    
+            .me__container_wrapper {
+    
+                &::before {
+                    top: 90px;
+                    left: 0px;
+                    width: calc(100%);
+                    height: calc(100%);
+                }
+    
+            }
+        }
+    }
 }
 
 /* MOBILE */
