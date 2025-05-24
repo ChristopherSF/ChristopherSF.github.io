@@ -1,5 +1,6 @@
 import './menu.style.scss'
 import { MdDownload, MdList } from 'react-icons/md';
+import { FaGithub } from 'react-icons/fa';
 
 import { useEffect, useRef, useState } from 'react';
 
@@ -49,10 +50,17 @@ function Menu() {
                 <a href="#projects" className="menu__container_list-item">Projects</a>
                 <a href="#technologies" className="menu__container_list-item">Technologies</a>
             </div>
-            <a className="menu__container_download-cv" href="https://drive.google.com/file/d/1VVc_YqCb1bfZXN3Kj08RWWN352mtlcgg/view?usp=drive_link" target='_blank'>
-                <MdDownload size={24} color="white" />
-                Curriculum
-            </a>
+
+            <div className="menu__container_info">
+                <a className="menu__container_info_github" href="https://github.com/ChristopherSF">
+                    <FaGithub size={24} color="white" />
+                </a>
+                <a className="menu__container_info_download-cv" href="https://drive.google.com/file/d/1VVc_YqCb1bfZXN3Kj08RWWN352mtlcgg/view?usp=drive_link">
+                    <MdDownload size={24} color="white" />
+                    Curriculum
+                </a>
+            </div>
+            
 
         </nav>
     )
