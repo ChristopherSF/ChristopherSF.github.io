@@ -4,16 +4,18 @@
 .menu__container {
 
     position: fixed;
-    background-color: var(--background);
+    background-color: transparent;
+    backdrop-filter: blur(100px);
+
+    height: 100px;
+    width: 100%;   
+
     z-index: 2;
     top: 0;
 
-    height: 100px;
-    width: 90%;   
-
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
 
     font-size: 1.3rem;
 
@@ -90,7 +92,7 @@
         justify-content: center;
         gap: 10px;
 
-        background-color: var(--background);
+        background-color: transparent;
         border: none;
 
         font-size: 1.3rem;
@@ -104,12 +106,12 @@
         gap: 20px;
 
         position: absolute;
-        top: 90px;
-        left: 0;
+        top: 100px;
+        left: 50px;
         padding: 50px;
-        z-index: 2;
 
-        background-color: var(--background);
+        background-color: var(--hover-background);
+
         border-radius: 10px;
         box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.15);
 

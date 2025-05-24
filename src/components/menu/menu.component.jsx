@@ -35,17 +35,19 @@ function Menu() {
                 Menu
             </button>
             <div className="menu__container_list_panel" ref={menuPanel}>
-                <a href="#" className="menu__container_list_panel-item">About me</a>
-                <a href="#" className="menu__container_list_panel-item">Experience</a>
-                <a href="#" className="menu__container_list_panel-item">Projects</a>
-                <a href="#" className="menu__container_list_panel-item">Technologies</a>
+                <a href="#cover" className="menu__container_list_panel-item">Home</a>
+                <a href="#aboutme" className="menu__container_list_panel-item">About me</a>
+                <a href="#experience" className="menu__container_list_panel-item">Experience</a>
+                <a href="#projects" className="menu__container_list_panel-item">Projects</a>
+                <a href="#technologies" className="menu__container_list_panel-item">Technologies</a>
             </div>
 
             <div className="menu__container_list">
-                <a href="#" className="menu__container_list-item">About me</a>
-                <a href="#" className="menu__container_list-item">Experience</a>
-                <a href="#" className="menu__container_list-item">Projects</a>
-                <a href="#" className="menu__container_list-item">Technologies</a>
+                <a href="#cover" className="menu__container_list-item">Home</a>
+                <a href="#aboutme" className="menu__container_list-item">About me</a>
+                <a href="#experience" className="menu__container_list-item">Experience</a>
+                <a href="#projects" className="menu__container_list-item">Projects</a>
+                <a href="#technologies" className="menu__container_list-item">Technologies</a>
             </div>
             <a className="menu__container_download-cv" href="https://drive.google.com/file/d/1VVc_YqCb1bfZXN3Kj08RWWN352mtlcgg/view?usp=drive_link" target='_blank'>
                 <MdDownload size={24} color="white" />

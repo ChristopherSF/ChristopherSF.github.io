@@ -2,6 +2,7 @@
   font-family: "Poppins", Arial, sans-serif, system-ui;
 
   --background: #1e1e1e;
+  --second-background: #2e2e2e;
   --text-color: #ffffffde;
   --hover-background: #484848;
 
@@ -10,6 +11,10 @@
   color: var(--text-color);
   
   width: 100%;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 body {

@@ -1,4 +1,4 @@
-import './styles/App.scss'
+import './styles/app.scss'
 import Main from './pages/main/main.page'
 import Menu from './components/menu/menu.component'
 
