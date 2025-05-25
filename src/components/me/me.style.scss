@@ -19,8 +19,7 @@
       &::before {
         content: '';
         position: absolute;
-        background-image: url('../../assets/circle-board.png');
-        background-size: contain;
+        background: var(--second-background);
         border-radius: 50%;
         z-index: -1;
       }

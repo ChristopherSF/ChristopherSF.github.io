@@ -56,7 +56,7 @@ export const createPiece = (canvas) => {
     };
 }
 
-export const draw = async (canvas, ctx) => {
+export const draw = (canvas, ctx) => {
   ctx.clearRect(0, 0, canvas.width, canvas.height);
 
   for (let p of fallingPieces) {
@@ -68,7 +68,7 @@ export const draw = async (canvas, ctx) => {
     p.y += p.speed;
 
     if (p.y > canvas.height) {
-      Object.assign(p, await createPiece(canvas));
+      Object.assign(p, createPiece(canvas));
       p.y = -30;
     }
   }

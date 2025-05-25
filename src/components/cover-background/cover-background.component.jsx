@@ -1,8 +1,8 @@
-import './chess-background.style.scss'
-import { draw, addResizeListener, init, preloadAllImages } from './chess-background.script.js'
+import './cover-background.style.scss'
+import { draw, addResizeListener, init, preloadAllImages } from './cover-background.script_5.js'
 import { useEffect, useRef } from 'react';
 
-function ChessBackground() {
+function CoverBackground() {
 
     const canvasbackground = useRef(null)
 
@@ -20,9 +20,9 @@ function ChessBackground() {
     }, [canvasbackground])
 
     return(
-        <canvas className="chess-background__container-canva" ref={canvasbackground}></canvas>
+        <canvas className="cover-background__container-canva" ref={canvasbackground}></canvas>
     )
 
 }
 
-export default ChessBackground
+export default CoverBackground
