@@ -1,3 +1,6 @@
+@use '../../../styles/breakpoints.scss' as *;
+
+/* GENERAL */
 .technologies__container {
     
     display: flex;
@@ -7,10 +10,51 @@
 
     background-color: var(--background);
 
-
     .technologies__container-title{
         font-size: 3rem;
         width: 100%;
         text-align: center;
     }
+
+    .technologies__container-separator{
+        opacity: 0.3;
+    }
+
+    .technologies__container_cards {
+
+        padding-top: 30px;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 15px;
+
+        flex-wrap: wrap;
+
+        width: 90%;
+
+    }
+}
+
+/* DESKTOP */
+@media (min-width: $tablet-breakpoint) {
+
+    .technologies__container-separator {
+        width: 50%;
+    }
+
+}
+
+/* MOBILE */
+@media (max-width: $tablet-breakpoint) {
+
+    .technologies__container-separator {
+        width: 70%;
+    }
+
+    .technologies__container_cards {
+        overflow-y: scroll;
+        max-height: 60dvh;
+    }
+
 }

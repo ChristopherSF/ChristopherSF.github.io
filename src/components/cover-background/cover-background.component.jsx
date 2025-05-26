@@ -9,7 +9,7 @@ function CoverBackground() {
     useEffect(() => {
         const canvas = canvasbackground.current;
         if(canvas) {
-            canvas.width = window.innerWidth;
+            canvas.width = window.innerWidth-1;
             canvas.height = window.innerHeight;
             preloadAllImages().then(() => {
                 init(canvas)

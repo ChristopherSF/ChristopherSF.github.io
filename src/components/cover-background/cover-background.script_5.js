@@ -5,19 +5,23 @@ const images_langs_frameworks_names = [
     'django',
     'flutter',
     'java',
+    'css',
     'js',
     'kotlin',
     'laravel',
     'mysql',
     'nodejs',
     'php',
+    'mongodb',
     'python',
     'react',
+    'html',
     'ruby',
     'springboot',
     'swift',
     'ts',
-    'vue'
+    'vue',
+    'scss'
 ];
 const showed_images = [];
 var loaded_images = [];
@@ -48,16 +52,14 @@ export const loadImage = (src) => {
         img.onload = () => resolve(img)
         img.onerror = () => reject(new Error(`Failed to load: ${src}`))
         img.src = src
-        img.style.width = '100%';
-        img.style.height = '100%';
         img.style.objectFit = 'contain';
     });
 }
 
 export const createImage = (canvas) => {
 
-    const separation = canvas.width > breakpoint ? 200 : 50
-    const limit = canvas.width > breakpoint ? canvas.width : canvas.width * 2
+    const limit = canvas.width + canvas.height
+    const separation = canvas.width > breakpoint ? limit / 5 : 50
 
     past_image_index++
     if(past_image_index >= loaded_images.length) past_image_index = 0
@@ -65,7 +67,7 @@ export const createImage = (canvas) => {
     past_x += separation
     if(past_x >= limit) past_x = 0
 
-    const min_width = canvas.width > breakpoint ? canvas.width / 5 : canvas.width / 2
+    const min_width = canvas.width / 5
     const grow = canvas.width > breakpoint ? 0.3 : 0.2
     const image_index = past_image_index
     const x = min_width + past_x

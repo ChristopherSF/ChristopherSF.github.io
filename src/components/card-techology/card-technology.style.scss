@@ -1,0 +1,82 @@
+@use '../../styles/breakpoints.scss' as *;
+
+/* GENERAL */
+.card_technology__container {
+
+    position: relative;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    background-color: transparent;
+    border: 1px solid var(--second-background);
+    overflow: hidden;
+
+    box-shadow: 0 0 5px 1px rgba(255, 255, 255, 0.02);
+
+    z-index: 0;
+
+    .card_technology__container-image {
+        background-color: var(--second-background);
+    }
+
+    .card_technology__container-name {
+        font-size: 1.5rem;
+        text-align: center;
+    }
+
+    .card_technology__container-background-animation {
+        position: absolute;
+        left: 0;
+        width: 0;
+        height: 100%;
+        z-index: -1;
+
+        transition: 0.2s ease-in-out;
+    }
+
+    &:hover .card_technology__container-background-animation  {
+        width: 100%;
+        background-color: var(--hover-background);
+    }
+
+    &:hover .card_technology__container-name {
+        color: var(--hover-text);
+    }
+
+}
+
+/* DESKTOP */
+@media (min-width: $tablet-breakpoint) {
+
+    .card_technology__container-image {
+        padding: 10px;
+        width: 40px;
+
+        /* EXCEPTION */
+        @media (max-height: 700px) {
+            width: 30px;
+        }
+    }
+
+    .card_technology__container-name {
+        width: 180px;
+    }
+
+}
+
+
+/* TABLET/MOBILE */
+@media (max-width: $tablet-breakpoint) {
+    
+    .card_technology__container-image {
+        padding: 10px;
+        width: 30px;
+    }
+
+    .card_technology__container-name {
+        width: 150px;
+    }
+
+}
