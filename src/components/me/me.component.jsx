@@ -1,5 +1,5 @@
 import './me.style.scss'
-import me from '../../assets/6.svg'
+import me from '../../assets/me.svg'
 
 function Me() {
 
