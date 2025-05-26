@@ -24,7 +24,7 @@ export const init = (canvas) => {
 
 export const preloadAllImages = async () => {
     try {
-        const images = await Promise.all(images_pieces_names.map(name => loadImage(`src/assets/chess-pieces-background/${name}.png`)));
+        const images = await Promise.all(images_pieces_names.map(name => loadImage(`/chess-pieces-background/${name}.png`)));
         load_images = images
     } catch (err) {
         console.error("One or more images failed to load:", err)

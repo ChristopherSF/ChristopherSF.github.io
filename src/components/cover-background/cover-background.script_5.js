@@ -30,7 +30,7 @@ export const init = (canvas) => {
 
 export const preloadAllImages = async () => {
     try {
-        const images = await Promise.all(images_langs_frameworks_names.map(name => loadImage(`src/assets/lang-frameworks-background/${name}.png`)));
+        const images = await Promise.all(images_langs_frameworks_names.map(name => loadImage(`/lang-frameworks-background/${name}.png`)));
         load_images = images
     } catch (err) {
         console.error("One or more images failed to load:", err)
@@ -40,7 +40,7 @@ export const preloadAllImages = async () => {
 export const loadImage = (src) => {
     return new Promise((resolve, reject) => {
         const img = new Image()
-        img.crossOrigin = "Anonymous"
+        //img.crossOrigin = "Anonymous"
         img.onload = () => resolve(img)
         img.onerror = () => reject(new Error(`Failed to load: ${src}`))
         img.src = src
