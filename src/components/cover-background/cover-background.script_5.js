@@ -52,7 +52,7 @@ export const createImage = (canvas) => {
     const image_index = Math.floor(Math.random() * load_images.length)
     const image = load_images[image_index]
 
-    const min_width = canvas.width > 500 ? canvas.width / 3 : canvas.width
+    const min_width = canvas.width > 500 ? canvas.width / 5 : canvas.width
 
     return {
         x: min_width + Math.random() * canvas.width,
