@@ -1,9 +1,13 @@
+@use '../../../styles/breakpoints.scss' as *;
+
+/* GENERAL */
 .about_me__container {
 
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    position: relative;
 
     background-color: var(--second-background);
     
@@ -11,9 +15,47 @@
         font-size: 3rem;
         width: 100%;
         text-align: center;
+        z-index: 1;
     }
+
+    .about_me__container-separator {
+        opacity: 0.3;
+        z-index: 1;
+    }
+
+    .about_me__container-paragraph {
+        font-size: 1.5rem;
+        width: 70%;
+        z-index: 1;
+    }
+}
+
+/* DESKTOP */
+@media (min-width: $phone-breakpoint) {
 
     .about_me__container-separator {
         width: 50%;
     }
+
+    .about_me__container-paragraph {
+        text-align: center;
+        font-size: 1.5rem;
+        width: 50%;
+    }
+
+}
+
+/* MOBILE */
+@media (max-width: $phone-breakpoint) {
+
+    .about_me__container-separator {
+        width: 70%;
+    }
+
+    .about_me__container-paragraph {
+        font-size: 1.5rem;
+        width: 70%;
+        text-align: left;
+    }
+
 }

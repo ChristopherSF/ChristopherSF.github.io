@@ -1,0 +1,20 @@
+.about_me_background__container {
+    display: flex;
+    flex-direction: row-reverse;
+    place-content: center;
+
+    width: 50%;
+
+    position: absolute;
+    bottom: 0;
+    z-index: 0;
+
+    opacity: 1;
+
+    .about_me_background__container-piece {
+        flex: 1 1 0;
+        max-width: 100%;
+        min-width: 50px;
+    }
+
+}   
