@@ -1,0 +1,114 @@
+@use '../../styles/breakpoints.scss' as *;
+
+/* GENERAL */
+footer {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+
+    flex-wrap: wrap;
+
+    width: calc(100% - 50px);
+
+    border-top: 2px solid var(--second-background);
+    padding: 25px;
+
+    .footer_section_contact {
+
+        .footer_section_contact-title {
+            font-weight: bold;
+            font-size: 1.3rem;
+        }
+
+        .footer_section_contact_details {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+
+    }
+
+    .footer_section_social {
+
+        .footer_section_social-title {
+            font-weight: bold;
+            font-size: 1.3rem;
+        }
+
+        .footer_section_social_details {
+
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+
+            display: flex;
+            gap: 10px;
+
+            .footer_section_social_details-item > a {
+                text-decoration: none;
+                color: var(--text-color);
+
+                display: flex;
+                justify-content: left;
+                gap: 10px;
+
+                border: 1px solid var(--text-color);
+                border-radius: 10px;
+                padding: 10px;
+
+                transition: 0.2s ease-in-out;
+                cursor: pointer;
+
+                &:hover {
+                    background-color: var(--hover-background-social);
+                }
+            }
+        }
+
+    }
+}
+
+
+/* DESKTOP */
+@media (min-width: $phone-breakpoint) {
+    footer {
+        justify-content: space-around;
+        .footer_section_contact {
+            width: 300px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .footer_section_social {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+    }
+
+}
+
+/* MOBILE */
+@media (max-width: $phone-breakpoint) {
+    footer {
+
+        gap: 30px;
+        justify-content: start;
+        
+        .footer_section_contact {
+            width: 300px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .footer_section_social {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+    }
+}

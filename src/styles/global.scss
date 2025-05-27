@@ -5,6 +5,7 @@
   --second-background: #2e2e2e;
   --text-color: #ffffffde;
   --hover-background: #621c1c;
+  --hover-background-social: #1c2262;
   --hover-text: #ffffffde;
   --line-separator: #ffffffde;
 
@@ -39,7 +40,7 @@ body {
 .page {
 
   width: 100%;
-  height: 100dvh;
+  min-height: 100dvh;
   transition: height 1s ease;
 
 }

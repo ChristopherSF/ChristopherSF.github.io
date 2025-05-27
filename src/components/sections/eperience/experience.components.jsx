@@ -38,7 +38,7 @@ function Experience() {
 
     return (
         <div className="experience__container page" id="experience">
-            <label className="experience__container-title">Eperience</label>
+            <label className="experience__container-title">Experience</label>
             <hr className="experience__container-separator"/>
             <ExperienceTimeline companies={companies} />
         </div>

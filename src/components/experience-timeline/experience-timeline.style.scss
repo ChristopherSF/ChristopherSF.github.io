@@ -12,10 +12,7 @@
 @media (min-width: $tablet-breakpoint) {
     .experience_timeline__container {
         flex-direction: row;
-
-        @media (max-height: 700px) {
-                padding-top: 30px;
-        }
+        padding-top: 30px;
     }
 }
 
