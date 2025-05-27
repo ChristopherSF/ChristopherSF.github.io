@@ -3,7 +3,9 @@
 
 /* GENERAL */
 .cover__container {
+
     display: flex;
+    position: relative;
     align-items: center;
     justify-content: flex-end;
     flex-direction: column;

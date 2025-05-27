@@ -1,0 +1,27 @@
+@use '../../styles/breakpoints.scss' as *;
+
+/* GENERAL */
+.experience_timeline__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* DESKTOP */
+@media (min-width: $tablet-breakpoint) {
+    .experience_timeline__container {
+        flex-direction: row;
+
+        @media (max-height: 700px) {
+                padding-top: 30px;
+        }
+    }
+}
+
+/* TABLET/MOBILE */
+@media (max-width: $tablet-breakpoint) {
+    .experience_timeline__container {
+        flex-direction: column;
+    }
+}
