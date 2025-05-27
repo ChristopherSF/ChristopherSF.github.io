@@ -47,6 +47,7 @@ function Menu() {
                 <a href="#cover" className="menu__container_list-item">Home</a>
                 <a href="#aboutme" className="menu__container_list-item">About me</a>
                 <a href="#experience" className="menu__container_list-item">Experience</a>
+                <a href="#projects" className="menu__container_list-item">Projects</a>
                 <a href="#technologies" className="menu__container_list-item">Technologies</a>
             </div>
 

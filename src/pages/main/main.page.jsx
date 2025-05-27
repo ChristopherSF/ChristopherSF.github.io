@@ -12,6 +12,7 @@ function Main() {
             <Cover />
             <AboutMe />
             <Experience />
+            <Projects />
             <Technologies />
         </main>
     )
