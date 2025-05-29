@@ -5,6 +5,15 @@ function Projects() {
 
     const projects = [
         {
+            preview: 'node_ts',
+            name: 'Dynamic Module',
+            description: 'Try my own arquitecture, for simple crud projects!',
+            technologies: ['nodejs','ts','bash'],
+            link: 'https://github.com/redfieldfire/SWISS_MANAGER_NODE_TS',
+            github: true,
+            has_gif: false
+        },
+        {
             preview: 'mathnsters',
             name: 'Mathnsters',
             description: 'Destroy monsters with your math skills!',
@@ -21,15 +30,6 @@ function Projects() {
             link: 'https://github.com/redfieldfire/Mathnsters',
             github: true,
             has_gif: true
-        },
-        {
-            preview: 'node_ts',
-            name: 'Dynamic Module',
-            description: 'Try my own arquitecture, for simple crud projects!',
-            technologies: ['nodejs','ts','bash'],
-            link: 'https://github.com/redfieldfire/SWISS_MANAGER_NODE_TS',
-            github: true,
-            has_gif: false
         }
     ]
 
