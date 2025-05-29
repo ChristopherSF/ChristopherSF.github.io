@@ -52,7 +52,7 @@ function Menu() {
             </div>
 
             <div className="menu__container_info">
-                <a className="menu__container_info_github" href="https://github.com/ChristopherSF">
+                <a className="menu__container_info_github" href="https://github.com/redfieldfire">
                     <FaGithub size={24} color="white" />
                 </a>
                 <a className="menu__container_info_download-cv" href="https://drive.google.com/file/d/13MBz8bK2izpwRMvx9e45sCs8MMrsoV6C/view?usp=sharing">

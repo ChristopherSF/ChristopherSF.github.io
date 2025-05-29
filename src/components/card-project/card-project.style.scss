@@ -1,0 +1,73 @@
+@use "../../styles/breakpoints.scss" as *;
+
+/* GENERAL */
+.card_project__container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    width: 300px;
+
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: var(--background);
+    border: 1px solid var(--background);
+
+    color: white;
+    text-decoration: none;
+
+
+    .card_project__container-preview {
+        width: 100%;
+        object-fit: contain;
+    }
+
+    .card_project__container_info {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        background-color: transparent;
+
+        width: 100%;
+
+        padding: 20px;
+
+        .card_project__container_info-project-name {
+            font-weight: bold;
+            font-size: 1.3rem;
+            width: 100%;
+            text-align: center;
+        }
+
+        .card_project__container_info-project-description {
+            width: 90%;
+            height: 50px;
+            text-align: center;
+        }
+
+        .card_project__container_info_project_technologies {
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+
+
+            .card_project__container_info_project_technologies-item {
+                width: 50px;
+            }
+
+        }
+
+        .card_project__container_info-link {
+            cursor: pointer;
+            opacity: 0.5;
+            transition: 0.3s;
+            &:hover {
+                opacity: 1;
+            }
+        }
+    }
+}
