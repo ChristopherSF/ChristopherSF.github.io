@@ -7,14 +7,14 @@ import ExperienceTimeline from '../../experience-timeline/experience-timeline.co
 function Experience() {
 
     const companies = [
-        {
-            image: despacho,
-            title: "Despacho Contable MG",
-            position: "External Developer",
-            time: "3 months",
-            description: <>Develop a Web page for easy make invoinces and custom desings using <b>FacturAPI</b> for stamp invoices to the SAT</>,
-            technologies: ['react', 'nodejs', 'facturapi'],
-            with_connection: false,
+        { 
+            image: controlla,
+            title: "Controlla",
+            position: "JR Full Stack Web Developer",
+            time: "2 years",
+            description: <>Participating in <b>support and development</b> area, where I had to be providing customer support to solve bugs and implement improvements</>,
+            technologies: ['vue', 'ts', 'js', 'laravel', 'mysql'],
+            with_connection: false 
         },
         {
             image: freelancer,
@@ -25,15 +25,15 @@ function Experience() {
             technologies: ['react', 'js', 'scss'],
             with_connection: true,
         },
-        { 
-            image: controlla,
-            title: "Controlla",
-            position: "JR Full Stack Web Developer",
-            time: "2 years",
-            description: <>Participating in <b>support and development</b> area, where I had to be providing customer support to solve bugs and implement improvements</>,
-            technologies: ['vue', 'ts', 'js', 'laravel', 'mysql'],
-            with_connection: true 
-        },
+        {
+            image: despacho,
+            title: "Despacho Contable MG",
+            position: "External Developer",
+            time: "3 months",
+            description: <>Develop a Web page for easy make invoinces and custom desings using <b>FacturAPI</b> for stamp invoices to the SAT</>,
+            technologies: ['react', 'nodejs', 'facturapi'],
+            with_connection: true,
+        }
     ];
 
     return (

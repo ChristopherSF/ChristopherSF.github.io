@@ -8,15 +8,13 @@ function AboutMe() {
             <AboutMeBackground />
             <label className="about_me__container-title">About me</label>
             <hr className="about_me__container-separator"/>
-            <p className="about_me__container-paragraph">I am a young man passionate about programming and
-
-            technology, I love to participate in hackathons and
-
-            programming tournaments, in my free time I like to play
-
-            chess, listen to music, and I always like to learn new
-
-            technologies in programming.
+            <p className="about_me__container-paragraph">
+                I'm a young tech enthusiast with a strong passion for 
+                programming and innovation. I enjoy taking part in hackathons 
+                and coding competitions, where I get to challenge myself and 
+                learn from others. In my free time, I like playing chess, 
+                listening to music, and exploring new programming tools and 
+                technologies to keep growing as a developer.
             </p>
         </div>
     )
