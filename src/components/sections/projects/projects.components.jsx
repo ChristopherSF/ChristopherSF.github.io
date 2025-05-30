@@ -14,6 +14,15 @@ function Projects() {
             has_gif: false
         },
         {
+            preview: 'stockfishweb',
+            name: 'Stockfish Web',
+            description: 'Analize your games using Stockfish API',
+            technologies: ['vue', 'js', 'scss', 'stockfishapi'],
+            link: 'https://christophersf.github.io/chess/',
+            github: false,
+            has_gif: false
+        },
+        {
             preview: 'mathnsters',
             name: 'Mathnsters',
             description: 'Destroy monsters with your math skills!',
