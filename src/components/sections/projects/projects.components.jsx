@@ -16,7 +16,7 @@ function Projects() {
         {
             preview: 'stockfishweb',
             name: 'Stockfish Web',
-            description: 'Analize your games using Stockfish API',
+            description: 'Analyze your games using Stockfish API',
             technologies: ['vue', 'js', 'scss', 'stockfishapi'],
             link: 'https://christophersf.github.io/chess/',
             github: false,
