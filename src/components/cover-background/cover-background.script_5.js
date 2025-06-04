@@ -21,7 +21,8 @@ const images_langs_frameworks_names = [
     'swift',
     'ts',
     'vue',
-    'scss'
+    'scss',
+    'git'
 ];
 const showed_images = [];
 var loaded_images = [];

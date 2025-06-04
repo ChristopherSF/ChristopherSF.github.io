@@ -17,7 +17,7 @@ function Technologies() {
         { name: "Python", image: "python.png", background_color: "#0474bc", text_color: "white" },
         { name: "Java", image: "java.png", background_color: "#007396", text_color: "white" },
         { name: "PHP", image: "php.png", background_color: "#777BB4", text_color: "white" },
-        { name: "Dart", image: "dart.png", background_color: "#0175C2", text_color: "white" }
+        { name: "Git", image: "git.png", background_color: "#f8541c", text_color: "white" }
       ];
 
     return (
