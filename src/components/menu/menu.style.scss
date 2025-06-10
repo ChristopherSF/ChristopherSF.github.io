@@ -97,7 +97,7 @@
 }
 
 /* DESKTOP */
-@media (min-width: $tablet-breakpoint) {
+@media (min-width: calc($tablet-breakpoint + 150px)) {
     .menu__container_list { 
         display: flex;
         flex-direction: row;
@@ -112,7 +112,7 @@
 }
 
 /* TABLET AND MOBILE */
-@media (max-width: $tablet-breakpoint) {
+@media (max-width: calc($tablet-breakpoint + 150px)) {
     .menu__container_list { 
         display: none;
     }

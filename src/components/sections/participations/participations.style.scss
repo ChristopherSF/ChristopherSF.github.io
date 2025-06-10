@@ -1,0 +1,61 @@
+@use '../../../styles/breakpoints.scss' as *;
+
+/* GENERAL */
+.participations__container {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    background-color: var(--background);
+
+    .participations__container-title {
+        font-size: 3rem;
+        width: 100%;
+        text-align: center;
+    }
+
+    .participations__container-separator {
+        opacity: 0.3;
+        width: 50%;
+    }
+
+    .participations__container_cards {
+
+        margin-top: 20px;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+
+        gap: 20px;
+
+        width: 90%;
+
+    }
+}
+
+/* DESKTOP */
+@media (min-width: $tablet-breakpoint) {
+    .participations__container {
+        padding-top: 30px;
+        padding-bottom: 50px;
+
+        @media (max-height: 700px) {
+            padding-top: 30px;
+        }
+   
+    }
+}
+
+/* TABLET/MOBILE */
+@media (max-width: $tablet-breakpoint) {
+
+    .participations__container {
+        padding-top: 100px;
+        padding-bottom: 50px;
+    }
+
+}

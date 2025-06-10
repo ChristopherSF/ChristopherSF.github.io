@@ -12,7 +12,9 @@ footer {
 
     width: calc(100% - 50px);
 
-    border-top: 2px solid var(--second-background);
+    background-color: var(--second-background);
+
+    border-top: 2px solid var(--background);
     padding: 25px;
 
     .footer_section_contact {

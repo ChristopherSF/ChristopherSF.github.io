@@ -40,6 +40,7 @@ function Menu() {
                 <a href="#aboutme" className="menu__container_list_panel-item">About me</a>
                 <a href="#experience" className="menu__container_list_panel-item">Experience</a>
                 <a href="#projects" className="menu__container_list_panel-item">Projects</a>
+                <a href="#participations" className="menu__container_list_panel-item">Participations</a>
                 <a href="#technologies" className="menu__container_list_panel-item">Technologies</a>
             </div>
 
@@ -48,6 +49,7 @@ function Menu() {
                 <a href="#aboutme" className="menu__container_list-item">About me</a>
                 <a href="#experience" className="menu__container_list-item">Experience</a>
                 <a href="#projects" className="menu__container_list-item">Projects</a>
+                <a href="#participations" className="menu__container_list-item">Participations</a>
                 <a href="#technologies" className="menu__container_list-item">Technologies</a>
             </div>
 

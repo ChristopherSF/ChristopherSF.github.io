@@ -10,7 +10,7 @@
     align-items: center;
     border-radius: 30px;
     background-color: transparent;
-    border: 1px solid var(--second-background);
+    border: 2px solid var(--background);
     overflow: hidden;
 
     box-shadow: 0 0 5px 1px rgba(255, 255, 255, 0.02);
@@ -18,7 +18,7 @@
     z-index: 0;
 
     .card_technology__container-image {
-        background-color: var(--second-background);
+        background-color: var(--background);
     }
 
     .card_technology__container-name {
