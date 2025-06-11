@@ -14,7 +14,7 @@ function Participations() {
         {
             preview: 'talentland',
             name: 'Talentland',
-            description: <>Working with <b>Aztrazeneca</b>, developing a web page like healthcheck for all of his websites!</>,
+            description: <>Working with <b>Aztrazeneca</b>, developing a web page like healthcheck for all of their websites!</>,
             technologies: ['react', 'laravel', 'bash'],
             link: 'https://www.facebook.com/angelica.grijalvaruiz/posts/pfbid02c4xNRMpEndkLTVPQ79AHN6x4o8NzUHBwdQW2kGf1ubwzjwvnuGanizwtQgGgUPkQl?notif_id=1681486240539564&notif_t=mention&ref=notif'
         },
