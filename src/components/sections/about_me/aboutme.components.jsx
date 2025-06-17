@@ -9,12 +9,11 @@ function AboutMe() {
             <label className="about_me__container-title">About me</label>
             <hr className="about_me__container-separator"/>
             <p className="about_me__container-paragraph">
-                I'm a young tech enthusiast with a strong passion for 
-                programming and innovation. I enjoy taking part in hackathons 
-                and coding competitions, where I get to challenge myself and 
-                learn from others. In my free time, I like playing chess, 
-                listening to music, and exploring new programming tools and 
-                technologies to keep growing as a developer.
+                Web developer with hands-on experience in modern
+                web technologies. Active participant in hackathons and
+                programming challenges. Continuously learning new
+                frameworks and tools to build scalable and efficient
+                software solutions.
             </p>
         </div>
     )

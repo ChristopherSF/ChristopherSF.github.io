@@ -9,6 +9,7 @@ const images_langs_frameworks_names = [
     'js',
     'kotlin',
     'laravel',
+    'csharp',
     'mysql',
     'nodejs',
     'php',
@@ -22,7 +23,9 @@ const images_langs_frameworks_names = [
     'ts',
     'vue',
     'scss',
-    'git'
+    'git',
+    'jquery',
+    'sql_server'
 ];
 const showed_images = [];
 var loaded_images = [];
