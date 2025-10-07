@@ -376,5 +376,41 @@
       "extra": []
     },
     "lyrics": "Cristo Jesús, eres mi plenitud\n\nCoro:\nSi te tengo a Ti, lo tengo todo,\nmi amado, mi tesoro,\nfuera de Ti, nada deseo Señor"
+  },
+  {
+    "id": 21,
+    "meta": { 
+      "name": "Te suelto", 
+      "tone_church": "C#", 
+      "my_tone": "C#",
+      "type": 0
+    },
+    "notes": {
+      "intro": [1, 5, 3, 2],
+      "verse": [1, 5, 3, 2],
+      "pre_chorus": [3, 1, 5, 2],
+      "chorus": [3, 1, 5, 2],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": "Verso:\nEs difícil, a veces no se entiende,\nme conoces más que a mí mismo.\nCreer en algo que no veo,\nyo sé que tu plan es perfecto.\n\nPrecoro:\nHazme ver como tú me ves,\nhazme entender y creer sin temer.\n\nCoro:\nTe suelto mis sueños,\nte suelto mis deseos,\ntoma el control de mi vida,\ntu plan en él, no más que el mío.\nTe suelto mis planes,\nte suelto mis decisiones,\ntoma el control de mi vida,\ntu plan en él, no más que el mío.\n\nPrecoro 2:\nLo dejo en tus manos,\núsame Jesús.\nA mi manera no funcionó,\nlo que tú tienes es mejor.\nLo dejo en tus manos,\núsame Jesús.\nA mi manera no funcionó,\nlo que tú tienes es mucho mejor."
+  },
+  {
+    "id": 22,
+    "meta": { 
+      "name": "Si tuvieras fe <-> Bajo la sombra de pedro <-> Elias oraba", 
+      "tone_church": "A#m", 
+      "my_tone": "Em",
+      "type": 1
+    },
+    "notes": {
+      "intro": [1, 6, 5],
+      "verse": [1, 5],
+      "pre_chorus": [],
+      "chorus": [4, 1, 5, 1],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": "<b>Si tuvieras fe como un grano de mostaza</b>\n\nSi tuvieras fe como un grano de mostaza\nEso dice el Señor\n\nTú le dirías a la la montaña\nMuévete, muévete\n\nEsa montaña se moverá\n\n<b>Elías oraba en el monte Carmelo</b>\n\nElías oraba en el monte Carmelo,\npara que el fuego bajara de los cielos.\n\nY cuando él oró, el fuego cayó\ny todo el holocausto allí se consumió.\n\nPero que baje el fuego,\ndescienda la llama,\ndescienda la llama con su poder.\n\nNo te dejaré si no me bendices,\nno te dejaré, aunque raye el alba.\n\nBendíceme ahora, bendíceme ahora.\n\n\n<b>Bajo la sombra de Pedro</b>\n\nBajo la sombra de Pedro sanaban los enfermos//\n\nno era la sombra ni tampoco Pedro//\n\nera porque Pedro tenía el Espíritu del Nazareno//\n\nNazareno, Nazareno, el Espíritu del Nazareno."
   }
 ]   
