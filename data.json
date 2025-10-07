@@ -63,7 +63,7 @@
     },
     "notes": {
       "intro": [1, 4],
-      "verse": [1, 4, 1, 4, 6, 4, 2, 4, 5],
+      "verse": ["(", 1, 4,")//", 6, 4, 2, 4, 5],
       "pre_chorus": [],
       "chorus": [4, 2, 1, 5],
       "end": [4, 5, 6, "3 o 5"],
@@ -123,7 +123,7 @@
       "end": [1, 4, 5, "3-5", 6, 4, 5],
       "extra": []
     },
-    "lyrics": ""
+    "lyrics": "Yo tengo un nuevo amor,\nel corazón me late sin parar,\nhay uno que me ha dicho: te amo de verdad,\nJesús, mi amor y más que amor, mi dulce paz.\n\nYo tengo un nuevo amor,\njamás imaginé poder hallar,\naquel que le dio a mi vida una razón para amar,\nJesús, mi amor y más que amor, mi dulce paz.\n\nSiento que tengo ganas de volar al firmamento,\ngritarle al mundo entero lo que estoy sintiendo,\nque ya encontré mi dulce amor, Jesús es toda mi verdad,\ny nunca yo me cansaré de repetirle hasta el final.\n\nAmo su voz dulcísima en respuesta cuando llamo,\nsus ojos tiernos y hasta el toque de sus manos,\npor siempre suyo quiero ser, Jesús es toda mi verdad,\ny nunca yo me cansaré de repetirle hasta el final.\n\nCoro:\nQue ahora yo tengo un nuevo amor,\nel corazón me late sin parar,\nhay uno que me ha dicho: te amo de verdad,\nJesús, mi amor y más que amor, mi dulce paz.\n\nYo tengo un nuevo amor,\njamás imaginé poder hallar,\naquel que le dio a mi vida una razón para amar,\nJesús, mi amor y más que amor, mi dulce paz,\nJesús, mi amor y más que amor, mi dulce paz,\nJesús, mi amor y más que amor, mi dulce paz."
   },
   {
     "id": 7,
@@ -189,13 +189,13 @@
     },
     "notes": {
       "intro": [],
-      "verse": [1, 4, 1, "7-6", 4, 5, 6, 4, 1, "7-6", 5, 1],
+      "verse": [1, 4, 1, "7-6", 4, 5, "\n", 6, 4, 1, "7-6", 5, 1],
       "pre_chorus": [],
-      "chorus": [4, 1, 4, 1, 5, 4, 1, 4, 5],
-      "end": [1, 4, 5, 1, 4, 5, 1, 4, 5, 6, 4, 5],
+      "chorus": ["(", 4, 1, ")//", 5, 4, 1, 4, 5],
+      "end": ["(", 1, 4, 5, ")//", 6, 4, 5],
       "extra": []
     },
-    "lyrics": ""
+    "lyrics": "Verso 1:\nTe amo Dios\nTu amor nunca me falla\nMi existir en Tus manos está\nDesde el momento que despierto\nHasta el anochecer\nYo cantaré de la bondad de Dios\n\nCoro 1:\nEn mi vida has sido bueno\nEn mi vida has sido tan fiel\nCon mi ser, con cada aliento\nYo cantaré de la bondad de Dios\n\nVerso 2:\nYo amo Tu voz\nMe has guiado por el fuego\nTú cerca estás\nEn la oscuridad\nTe conozco como Padre\nY como amigo fiel\nMi vida está en la bondad de Dios\n\n(Repetir Coro 1)\n\nPuente:\nTu fidelidad sigue\nPersiguiéndome\nTu fidelidad sigue\nPersiguiéndome\nTodo lo que soy\nTe lo entrego hoy\nA Ti me rendiré\nTu fidelidad sigue\nPersiguiéndome"
   },
   {
     "id": 11,
@@ -232,5 +232,149 @@
       "extra": []
     },
     "lyrics": ""
+  },
+  {
+    "id": 13,
+    "meta": { 
+      "name": "Yo quiero enamorarme mas de ti", 
+      "tone_church": "F#", 
+      "my_tone": "F",
+      "type": 0
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 5, 6, 5, 4, 5, 1],
+      "pre_chorus": [6, 5, 4],
+      "chorus": [1, 5, 6, 5, 4, 5, 1],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 14,
+    "meta": { 
+      "name": "Tu Luz", 
+      "tone_church": "G", 
+      "my_tone": "E",
+      "type": 0
+    },
+    "notes": {
+      "intro": [1, 6, 3, 4],
+      "verse": [1, 6, 3, 4],
+      "pre_chorus": [],
+      "chorus": [1, 3, 6, 4, 5],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 15,
+    "meta": { 
+      "name": "Yeshua", 
+      "tone_church": "E", 
+      "my_tone": "C",
+      "type": 0
+    },
+    "notes": {
+      "intro": [1, 2, "3-5", 2],
+      "verse": [1, 2, "3-5", 2],
+      "pre_chorus": [],
+      "chorus": [3, 1, 5, 2],
+      "end": [],
+      "extra": ["7-1"]
+    },
+    "lyrics": "Mi orgullo me sacó del jardín\nSu humildad colocó el jardín en mí\nY si vendiera todo lo que tengo\nA cambio de su amor, yo fallaría\n\nPre-coro:\nPorque su amor no se compra\nNi se merece\nSu amor es un regalo\nDe gracia se recibe\n\nCoro:\nQuiero conocer a Jesús\nQuiero conocer a Jesús\nQuiero conocer a Jesús\nQuiero conocer a Jesús\n\nY ser hallado en Él\nY ser hallado en Él\nY ser hallado en Él\n\nEspontáneo:\nYeshua ah, Ah, Ah, ah, ah,ah,ah,ah x4\n\nMi amado es el más bello\nEntre millares de millares"
+  },
+  {
+    "id": 16,
+    "meta": { 
+      "name": "Yahweh", 
+      "tone_church": "Am", 
+      "my_tone": "Fm",
+      "type": 1
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 5, 6, 7],
+      "pre_chorus": [],
+      "chorus": [6, 7, 5, 1],
+      "end": [1, 7, 6 , 5],
+      "extra": []
+    },
+    "lyrics": "Se siente tu gloria en este lugar\nAlgo grande va a pasar\nSe activa lo sobrenatural\n\nSe siente tu gloria en este lugar\nAlgo grande va a pasar\nSe activa lo sobrenatural\n\nYahweh, rafa, elohim\nShaddai, jireh, adonai\nSe manifestará\n\nSi le adoras él se manifestará\nSi le llamas él se manifiesta\nSi le buscas él se manifestará\n\nYahweh se manifestará\nJireh se manifestará\nRafa se manifestará\nSe manifestará\n\nSi le adoras él se manifestará\nSi le llamas él se manifiesta\nSi le buscas él se manifestará"
+  },
+  {
+    "id": 17,
+    "meta": { 
+      "name": "Jesucristo Basta", 
+      "tone_church": "Fm", 
+      "my_tone": "Em",
+      "type": 1
+    },
+    "notes": {
+      "intro": [1, 6, 3, 7, 1],
+      "verse": [1, 6, 3, 7, 1],
+      "pre_chorus": [6, 1, 7],
+      "chorus": [3, 7, 1, 6],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": "Verso 1:\nNuestros corazones insaciables son,\nhasta que conocen a su salvador.\n\nPre-Coro:\nTal y como somos nos amó,\nhoy nos acercamos sin temor.\n\nCoro:\nÉl es el agua que al beber, nunca más tendremos sed,\nJesucristo basta, Jesucristo basta.\nMi castigo Él recibió, y su herencia me entregó,\nJesucristo basta, Jesucristo basta.\n\nVerso 2:\nFuimos alcanzados por su gran amor,\ncon brazos abiertos nos recibe hoy.\nAhora hay un futuro y esperanza fiel,\nen su amor confiamos, hay descanso en Él."
+  },
+  {
+    "id": 18,
+    "meta": { 
+      "name": "Esa roca, donde yo me escondo", 
+      "tone_church": "D", 
+      "my_tone": "G",
+      "type": 0
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 5, 4],
+      "pre_chorus": ["(", 1, 4, ")///", 5, 6, 4, 5],
+      "chorus": [3, 7, 1, 6],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 19,
+    "meta": { 
+      "name": "Himno de victoria", 
+      "tone_church": "A", 
+      "my_tone": "A",
+      "type": 0
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 3, 4, 2, "\n", 6, 4, 2, 5, "(", 1 ,")"],
+      "pre_chorus": [],
+      "chorus": [1, 6, 2, 4, 5, 1],
+      "end": [5, 1],
+      "extra": []
+    },
+    "lyrics": "Él es el hombre que tuvo poder en andar sobre el mar,\n¿Quién es el que puede hacer el mar callar?\nY en el momento que la tempestad te quiera hundir,\nÉl viene con toda autoridad y manda a calmar.\n\nÉl es el hombre que tuvo poder de hacer a Israel\nCaminar por entre las aguas del mar Rojo.\nHizo un camino en medio del mar para el pueblo de Israel pasar,\nY al otro lado con sus pies secos pudieron cantar el himno de Victoria.\n\nCoro:\nCuando estés frente al mar y lo tengas que atravesar,\nLlama a este hombre con fe, solo Él abre el mar.\nHermano no tengas temor si detrás viene Faraón,\nAl otro lado tu pasarás y allí tu vas a entonar el himno de victoria.\n\nCada vez que el mar Rojo tú tengas que pasar,\nLlama siempre a ese hombre que te va a ayudar.\nEn la hora más difícil es cuando Él te ve,\nLlama siempre a ese hombre que tiene el poder.\nSi tú pasas por el fuego no te vas a quemar,\nY si pasas por las aguas no te ahogarás,\nPasa como Israel que el mar atravesó,\n¡Y en el nombre del Señor, el himno de Victoria del otro lado cantó!"
+  },
+  {
+    "id": 20,
+    "meta": { 
+      "name": "Eres mi plenitud", 
+      "tone_church": "E", 
+      "my_tone": "G",
+      "type": 0
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 2, 3, 2, 1, 5],
+      "pre_chorus": [],
+      "chorus": [],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": "Cristo Jesús, eres mi plenitud\n\nCoro:\nSi te tengo a Ti, lo tengo todo,\nmi amado, mi tesoro,\nfuera de Ti, nada deseo Señor"
   }
-]
+]   
