@@ -412,5 +412,41 @@
       "extra": []
     },
     "lyrics": "<b>Si tuvieras fe como un grano de mostaza</b>\n\nSi tuvieras fe como un grano de mostaza\nEso dice el Señor\n\nTú le dirías a la la montaña\nMuévete, muévete\n\nEsa montaña se moverá\n\n<b>Elías oraba en el monte Carmelo</b>\n\nElías oraba en el monte Carmelo,\npara que el fuego bajara de los cielos.\n\nY cuando él oró, el fuego cayó\ny todo el holocausto allí se consumió.\n\nPero que baje el fuego,\ndescienda la llama,\ndescienda la llama con su poder.\n\nNo te dejaré si no me bendices,\nno te dejaré, aunque raye el alba.\n\nBendíceme ahora, bendíceme ahora.\n\n\n<b>Bajo la sombra de Pedro</b>\n\nBajo la sombra de Pedro sanaban los enfermos//\n\nno era la sombra ni tampoco Pedro//\n\nera porque Pedro tenía el Espíritu del Nazareno//\n\nNazareno, Nazareno, el Espíritu del Nazareno."
+  },
+  {
+    "id": 23,
+    "meta": { 
+      "name": "Beautiful Beautiful", 
+      "tone_church": "Em", 
+      "my_tone": "Em",
+      "type": 1
+    },
+    "notes": {
+      "intro": [1, 6, 7],
+      "verse": [1, 6, 7],
+      "pre_chorus": [],
+      "chorus": [1, 6, 7, 3, 2],
+      "end": ["(",6,7,")//"],
+      "extra": []
+    },
+    "lyrics": "Verse 1:\nDon’t know how it is You looked at me,\nand saw the person that I could be.\nAwakening my heart, breaking through the dark,\nsuddenly Your grace.\n\nChorus:\nLike sunlight burning at midnight,\nmaking my life something so beautiful, beautiful.\nMercy reaching to save me,\nall that I need,\nYou are so beautiful, beautiful.\n\nVerse 2:\nNow there’s a joy inside I can’t contain,\nbut even perfect days can end in rain.\nAnd though it’s pouring down, I see You through the clouds,\nshining on my face.\n\nI have come undone,\nbut I have just begun,\nchanging by Your grace."
+  },
+  {
+    "id": 24,
+    "meta": { 
+      "name": "The breakup Song", 
+      "tone_church": "G", 
+      "my_tone": "G",
+      "type": 0
+    },
+    "notes": {
+      "intro": [1, 6, 4, 1],
+      "verse": [1, 6, 4, 1],
+      "pre_chorus": [],
+      "chorus": [1, 6, 5, 4, 5, 1, 5],
+      "end": [],
+      "extra": ["4,5b,5 y 1,7,6 y 6b-6"]
+    },
+    "lyrics": "Sick and tired of being sick and tired\nHad as much of you as I can take\nI'm so done, so over being afraid\n\nI've gone through the motions\nI've been back and forth\nI know that you're thinking you've heard this before\nI don't know how to say it\nSo I'm just gonna say it, yeah\n\nFear, you don't own me\nThere ain't no room in this story\nAnd I ain't got time for you\nTelling me what I'm not\nLike you know me, well guess what?\nI know who I am\nI know I'm strong\nAnd I am free\nGot my own identity\nSo fear, you will never be welcome here\n\nTake a minute, let it settle in\nYou probably never saw it coming\nSomething's gotta give, so I give up you, oh\nThere's no room for you here\nYeah, I've had enough\nThe 'no vacancy' sign on my heart is lit up\nIn case you didn't hear it\nHere it is again"
   }
 ]   
