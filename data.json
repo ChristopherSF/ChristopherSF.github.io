@@ -466,5 +466,23 @@
       "extra": []
     },
     "lyrics": "Verso 1:\nOh, corazón. Encuentra valor\nRecuerda los días de sus maravillas\nY presta atención. Él es Emanuel\nSiempre ha estado aquí, No olvides su pacto\ndescansa en su abrazo, Y vuelve a decir\n\nCoro:\nDios, Tú eres fiel. Fiel hasta el final\nNunca fallarás, En la tempestad\nsé que sigues siendo fiel\n\nVerso 2:\nY me alegraré. Aun en el dolor\nPues soy tu amado y vivo confiado\nEn mi Salvador. Decido creer\nQue no es el final. Veré la promesa\nTu gracia y tu fuerza me acompañarán\n\nCoro 2:\nPues Tú eres fiel, Fiel hasta el final\nTú nunca fallarás En la tempestad\nsé que sigues siendo rey\nY por la eternidad\nTú nunca cambiarás\nPuedo descansar\nEn que sigues siendo fiel\n\nPuente:\nY si lo pierdo todo\nPero tengo a Cristo\nYo sé que tengo todo lo que necesito\nTú eres mi tesoro. Mi mejor amigo\nYo sé que tengo todo si Tú estás conmigo\n\nCoro Final:\nEres fiel, Fiel hasta el final\nTú nunca fallarás, En la tempestad\nsé que sigues siendo Rey\nY por la eternidad, Tú nunca cambiarás\nPuedo descansar. En que sigues siendo fiel\n\nFiel. Fiel hasta el final. Tú nunca fallarás\nEn la tempestad, sé que sigues siendo rey\nPor la eternidad, Tú nunca cambiarás\nPuedo descansar\nEn que sigues siendo fiel"
+  },
+  {
+    "id": 26,
+    "meta": { 
+      "name": "Borde de su manto", 
+      "tone_church": "Am", 
+      "my_tone": "Dm",
+      "type": 1
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 6, 7],
+      "pre_chorus": [3, 4, 6],
+      "chorus": [3, 5, 1, 6, 7],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": "Verso 1:\nSi tan solo tocare el borde de su manto\nSi tan solo pudiera ver su rostro\nSi tan solo pudiera tocar sus manos\nLibre sería, yo sé\n\nVerso 2:\nSi tan solo tocare el borde de su manto\nSi tan solo pudiera oír su voz\nSi tan solo pudiera acercarme a Él\nLibre sería, yo sé\n\nCoro:\nPorque delante de Ti\nSolo soy alguien que necesita\nUn toque del Maestro\nPara ser liberado\nPorque delante de Ti\nSolo soy alguien que necesita\nUna mirada de mi Salvador\nSu nombre es Jesús\nJesús, Jesús, Jesús, nombre sin igual"
   }
 ]   
