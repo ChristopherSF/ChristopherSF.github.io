@@ -448,5 +448,23 @@
       "extra": ["4,5b,5 y 1,7,6 y 6b-6"]
     },
     "lyrics": "Sick and tired of being sick and tired\nHad as much of you as I can take\nI'm so done, so over being afraid\n\nI've gone through the motions\nI've been back and forth\nI know that you're thinking you've heard this before\nI don't know how to say it\nSo I'm just gonna say it, yeah\n\nFear, you don't own me\nThere ain't no room in this story\nAnd I ain't got time for you\nTelling me what I'm not\nLike you know me, well guess what?\nI know who I am\nI know I'm strong\nAnd I am free\nGot my own identity\nSo fear, you will never be welcome here\n\nTake a minute, let it settle in\nYou probably never saw it coming\nSomething's gotta give, so I give up you, oh\nThere's no room for you here\nYeah, I've had enough\nThe 'no vacancy' sign on my heart is lit up\nIn case you didn't hear it\nHere it is again"
+  },
+  {
+    "id": 25,
+    "meta": { 
+      "name": "Fiel", 
+      "tone_church": "F", 
+      "my_tone": "D",
+      "type": 0
+    },
+    "notes": {
+      "intro": [1, 5, 6, 4],
+      "verse": [1, 5, 6, 4],
+      "pre_chorus": [],
+      "chorus": [],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": "Verso 1:\nOh, corazón. Encuentra valor\nRecuerda los días de sus maravillas\nY presta atención. Él es Emanuel\nSiempre ha estado aquí, No olvides su pacto\ndescansa en su abrazo, Y vuelve a decir\n\nCoro:\nDios, Tú eres fiel. Fiel hasta el final\nNunca fallarás, En la tempestad\nsé que sigues siendo fiel\n\nVerso 2:\nY me alegraré. Aun en el dolor\nPues soy tu amado y vivo confiado\nEn mi Salvador. Decido creer\nQue no es el final. Veré la promesa\nTu gracia y tu fuerza me acompañarán\n\nCoro 2:\nPues Tú eres fiel, Fiel hasta el final\nTú nunca fallarás En la tempestad\nsé que sigues siendo rey\nY por la eternidad\nTú nunca cambiarás\nPuedo descansar\nEn que sigues siendo fiel\n\nPuente:\nY si lo pierdo todo\nPero tengo a Cristo\nYo sé que tengo todo lo que necesito\nTú eres mi tesoro. Mi mejor amigo\nYo sé que tengo todo si Tú estás conmigo\n\nCoro Final:\nEres fiel, Fiel hasta el final\nTú nunca fallarás, En la tempestad\nsé que sigues siendo Rey\nY por la eternidad, Tú nunca cambiarás\nPuedo descansar. En que sigues siendo fiel\n\nFiel. Fiel hasta el final. Tú nunca fallarás\nEn la tempestad, sé que sigues siendo rey\nPor la eternidad, Tú nunca cambiarás\nPuedo descansar\nEn que sigues siendo fiel"
   }
 ]   
