@@ -484,5 +484,59 @@
       "extra": []
     },
     "lyrics": "Verso 1:\nSi tan solo tocare el borde de su manto\nSi tan solo pudiera ver su rostro\nSi tan solo pudiera tocar sus manos\nLibre sería, yo sé\n\nVerso 2:\nSi tan solo tocare el borde de su manto\nSi tan solo pudiera oír su voz\nSi tan solo pudiera acercarme a Él\nLibre sería, yo sé\n\nCoro:\nPorque delante de Ti\nSolo soy alguien que necesita\nUn toque del Maestro\nPara ser liberado\nPorque delante de Ti\nSolo soy alguien que necesita\nUna mirada de mi Salvador\nSu nombre es Jesús\nJesús, Jesús, Jesús, nombre sin igual"
+  },
+  {
+    "id": 27,
+    "meta": { 
+      "name": "Hay libertad", 
+      "tone_church": "Cm", 
+      "my_tone": "Dm",
+      "type": 1
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 6, 3, 7],
+      "pre_chorus": [],
+      "chorus": [],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 28,
+    "meta": { 
+      "name": "Poderoso Dios", 
+      "tone_church": "C", 
+      "my_tone": "D",
+      "type": 0
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 6, 4, 5],
+      "pre_chorus": [],
+      "chorus": [],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 29,
+    "meta": { 
+      "name": "Con tu sangre", 
+      "tone_church": "E", 
+      "my_tone": "C",
+      "type": 0
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 4, 1, 5, 4, 5, 1],
+      "pre_chorus": [],
+      "chorus": [5, 4, 1],
+      "end": [5, 4, 5, 1],
+      "extra": []
+    },
+    "lyrics": ""
   }
 ]   
