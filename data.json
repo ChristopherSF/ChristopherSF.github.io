@@ -1,0 +1,957 @@
+[
+  {
+    "id": 0,
+    "meta": {
+      "name": "Somos el pueblo de Dios",
+      "tone_church": "F#",
+      "my_tone": "D#",
+      "type": 0
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 6, 4, 2, 5],
+      "pre_chorus": [],
+      "chorus": [1, 4, 5, "1-7", 6, 4, 5],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": "Somos el pueblo de Dios\nSomos un pueblo especial\nllamados para anunciar\nlas virtudes de aquel\nque nos llamó a su luz\nSomos el pueblo de Dios\nsu sangre nos redimió\ny su espíritu dio\npara darnos poder\ny ser testigos de Él\n\nY llevaremos su gloria\na cada pueblo y Nación\ntrayéndoles esperanza\ny nuevas de salvación\ny su amor nos impulsa\nno nos podemos callar\nanunciaremos al mundo\nde su amor y verdad"
+  },
+  {
+    "id": 1,
+    "meta": {
+      "name": "Al que me ciñe de poder",
+      "tone_church": "F#",
+      "my_tone": "D#",
+      "type": 0
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 6, 4, 5],
+      "pre_chorus": [],
+      "chorus": [1, 4, 5, "1-7", 6, 4, 5],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 2,
+    "meta": { 
+      "name": "Yo te busco", 
+      "tone_church": "E",
+      "my_tone": "D",
+      "type": 0
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 4, 5],
+      "pre_chorus": [],
+      "chorus": [1, 4, 6, 5, 3, 2, 4],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 3,
+    "meta": { 
+      "name": "La sunamita",
+      "tone_church": "F#",
+      "my_tone": "D",
+      "type": 0
+    },
+    "notes": {
+      "intro": [1, 4],
+      "verse": ["(", 1, 4,")//", 6, 4, 2, 4, 5],
+      "pre_chorus": [],
+      "chorus": [4, 2, 1, 5],
+      "end": [4, 5, 6, "3 o 5"],
+      "extra": []
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 4,
+    "meta": { 
+      "name": "Cristo yo te amo", 
+      "tone_church": "E", 
+      "my_tone": "E",
+      "type": 0
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 6, 4, 5],
+      "pre_chorus": [],
+      "chorus": [1, 5, 1, 6, 4, 5],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 5,
+    "meta": { 
+      "name": "Me dicen aleluya (Coritos)", 
+      "tone_church": "F#", 
+      "my_tone": "C#",
+      "type": 0
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 4],
+      "pre_chorus": [],
+      "chorus": [1, 4],
+      "end": [1, 5, 4],
+      "extra": []
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 6,
+    "meta": { 
+      "name": "Ahora yo, tengo un nuevo amor", 
+      "tone_church": "C", 
+      "my_tone": "C",
+      "type": 0
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 4, 5],
+      "pre_chorus": [5, 6, 4, 5, "4-1"],
+      "chorus": [1, 5, 6, 4, 5],
+      "end": [1, 4, 5, "3-5", 6, 4, 5],
+      "extra": []
+    },
+    "lyrics": "Yo tengo un nuevo amor,\nel corazón me late sin parar,\nhay uno que me ha dicho: te amo de verdad,\nJesús, mi amor y más que amor, mi dulce paz.\n\nYo tengo un nuevo amor,\njamás imaginé poder hallar,\naquel que le dio a mi vida una razón para amar,\nJesús, mi amor y más que amor, mi dulce paz.\n\nSiento que tengo ganas de volar al firmamento,\ngritarle al mundo entero lo que estoy sintiendo,\nque ya encontré mi dulce amor, Jesús es toda mi verdad,\ny nunca yo me cansaré de repetirle hasta el final.\n\nAmo su voz dulcísima en respuesta cuando llamo,\nsus ojos tiernos y hasta el toque de sus manos,\npor siempre suyo quiero ser, Jesús es toda mi verdad,\ny nunca yo me cansaré de repetirle hasta el final.\n\nCoro:\nQue ahora yo tengo un nuevo amor,\nel corazón me late sin parar,\nhay uno que me ha dicho: te amo de verdad,\nJesús, mi amor y más que amor, mi dulce paz.\n\nYo tengo un nuevo amor,\njamás imaginé poder hallar,\naquel que le dio a mi vida una razón para amar,\nJesús, mi amor y más que amor, mi dulce paz,\nJesús, mi amor y más que amor, mi dulce paz,\nJesús, mi amor y más que amor, mi dulce paz."
+  },
+  {
+    "id": 7,
+    "meta": { 
+      "name": "Los cielos cerrados se abren <-> Haz llover <-> La unica razon <-> No morire", 
+      "tone_church": "Am", 
+      "my_tone": "Dm",
+      "type": 1
+    },
+    "notes": {
+      "intro": [],
+      "verse": [],
+      "pre_chorus": [],
+      "chorus": [1, 6, 3, 7],
+      "end": ["7-8b-1"],
+      "extra": ["T menor en 7"]
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 8,
+    "meta": { 
+      "name": "Si los vientos te obedecen", 
+      "tone_church": "E", 
+      "my_tone": "E",
+      "type": 0
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 3, 4, 5],
+      "pre_chorus": [],
+      "chorus": [1, 4, 5, 3, 6, 4, 5],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 9,
+    "meta": { 
+      "name": "Vine adorarte", 
+      "tone_church": "D", 
+      "my_tone": "D",
+      "type": 0
+    },
+    "notes": {
+      "intro": [1, 5, 2, 4, 1, 5, 4],
+      "verse": [1, 5, 2, 4, 1, 5, 4],
+      "pre_chorus": [],
+      "chorus": [1, 5, 6, 4],
+      "end": [5, 6, 4, 1],
+      "extra": []
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 10,
+    "meta": { 
+      "name": "Te amo Dios, en mi vida a sido bueno", 
+      "tone_church": "D", 
+      "my_tone": "G",
+      "type": 0
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 4, 1, "7-6", 4, 5, "\n", 6, 4, 1, "7-6", 5, 1],
+      "pre_chorus": [],
+      "chorus": ["(", 4, 1, ")//", 5, 4, 1, 4, 5],
+      "end": ["(", 1, 4, 5, ")//", 6, 4, 5],
+      "extra": []
+    },
+    "lyrics": "Verso 1:\nTe amo Dios\nTu amor nunca me falla\nMi existir en Tus manos está\nDesde el momento que despierto\nHasta el anochecer\nYo cantaré de la bondad de Dios\n\nCoro 1:\nEn mi vida has sido bueno\nEn mi vida has sido tan fiel\nCon mi ser, con cada aliento\nYo cantaré de la bondad de Dios\n\nVerso 2:\nYo amo Tu voz\nMe has guiado por el fuego\nTú cerca estás\nEn la oscuridad\nTe conozco como Padre\nY como amigo fiel\nMi vida está en la bondad de Dios\n\n(Repetir Coro 1)\n\nPuente:\nTu fidelidad sigue\nPersiguiéndome\nTu fidelidad sigue\nPersiguiéndome\nTodo lo que soy\nTe lo entrego hoy\nA Ti me rendiré\nTu fidelidad sigue\nPersiguiéndome"
+  },
+  {
+    "id": 11,
+    "meta": { 
+      "name": "Como dijiste", 
+      "tone_church": "D#m", 
+      "my_tone": "D#m",
+      "type": 1
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 7, 3, 7],
+      "pre_chorus": [6, 3, 7],
+      "chorus": [6, 7, 1, 3],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 12,
+    "meta": { 
+      "name": "Cuando el Señor hiciere volver, la cautividad", 
+      "tone_church": "Dm", 
+      "my_tone": "Em",
+      "type": 1
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 7, 6, 5],
+      "pre_chorus": [],
+      "chorus": [1, 7, 6, 5],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 13,
+    "meta": { 
+      "name": "Yo quiero enamorarme mas de ti", 
+      "tone_church": "F#", 
+      "my_tone": "F",
+      "type": 0
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 5, 6, 5, 4, 5, 1],
+      "pre_chorus": [6, 5, 4],
+      "chorus": [1, 5, 6, 5, 4, 5, 1],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 14,
+    "meta": { 
+      "name": "Tu Luz", 
+      "tone_church": "G", 
+      "my_tone": "E",
+      "type": 0
+    },
+    "notes": {
+      "intro": [1, 6, 3, 4],
+      "verse": [1, 6, 3, 4],
+      "pre_chorus": [],
+      "chorus": [1, 3, 6, 4, 5],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 15,
+    "meta": { 
+      "name": "Yeshua", 
+      "tone_church": "E", 
+      "my_tone": "C",
+      "type": 0
+    },
+    "notes": {
+      "intro": [1, 2, "3-5", 2],
+      "verse": [1, 2, "3-5", 2],
+      "pre_chorus": [],
+      "chorus": [3, 1, 5, 2],
+      "end": [],
+      "extra": ["7-1"]
+    },
+    "lyrics": "Mi orgullo me sacó del jardín\nSu humildad colocó el jardín en mí\nY si vendiera todo lo que tengo\nA cambio de su amor, yo fallaría\n\nPre-coro:\nPorque su amor no se compra\nNi se merece\nSu amor es un regalo\nDe gracia se recibe\n\nCoro:\nQuiero conocer a Jesús\nQuiero conocer a Jesús\nQuiero conocer a Jesús\nQuiero conocer a Jesús\n\nY ser hallado en Él\nY ser hallado en Él\nY ser hallado en Él\n\nEspontáneo:\nYeshua ah, Ah, Ah, ah, ah,ah,ah,ah x4\n\nMi amado es el más bello\nEntre millares de millares"
+  },
+  {
+    "id": 16,
+    "meta": { 
+      "name": "Yahweh", 
+      "tone_church": "Am", 
+      "my_tone": "Fm",
+      "type": 1
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 5, 6, 7],
+      "pre_chorus": [],
+      "chorus": [6, 7, 5, 1],
+      "end": [1, 7, 6 , 5],
+      "extra": []
+    },
+    "lyrics": "Se siente tu gloria en este lugar\nAlgo grande va a pasar\nSe activa lo sobrenatural\n\nSe siente tu gloria en este lugar\nAlgo grande va a pasar\nSe activa lo sobrenatural\n\nYahweh, rafa, elohim\nShaddai, jireh, adonai\nSe manifestará\n\nSi le adoras él se manifestará\nSi le llamas él se manifiesta\nSi le buscas él se manifestará\n\nYahweh se manifestará\nJireh se manifestará\nRafa se manifestará\nSe manifestará\n\nSi le adoras él se manifestará\nSi le llamas él se manifiesta\nSi le buscas él se manifestará"
+  },
+  {
+    "id": 17,
+    "meta": { 
+      "name": "Jesucristo Basta", 
+      "tone_church": "Fm", 
+      "my_tone": "Em",
+      "type": 1
+    },
+    "notes": {
+      "intro": [1, 6, 3, 7, 1],
+      "verse": [1, 6, 3, 7, 1],
+      "pre_chorus": [6, 1, 7],
+      "chorus": [3, 7, 1, 6],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": "Verso 1:\nNuestros corazones insaciables son,\nhasta que conocen a su salvador.\n\nPre-Coro:\nTal y como somos nos amó,\nhoy nos acercamos sin temor.\n\nCoro:\nÉl es el agua que al beber, nunca más tendremos sed,\nJesucristo basta, Jesucristo basta.\nMi castigo Él recibió, y su herencia me entregó,\nJesucristo basta, Jesucristo basta.\n\nVerso 2:\nFuimos alcanzados por su gran amor,\ncon brazos abiertos nos recibe hoy.\nAhora hay un futuro y esperanza fiel,\nen su amor confiamos, hay descanso en Él."
+  },
+  {
+    "id": 18,
+    "meta": { 
+      "name": "Esa roca, donde yo me escondo", 
+      "tone_church": "D", 
+      "my_tone": "G",
+      "type": 0
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 5, 4],
+      "pre_chorus": ["(", 1, 4, ")///", 5, 6, 4, 5],
+      "chorus": [3, 7, 1, 6],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 19,
+    "meta": { 
+      "name": "Himno de victoria", 
+      "tone_church": "A", 
+      "my_tone": "A",
+      "type": 0
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 3, 4, 2, "\n", 6, 4, 2, 5, "(", 1 ,")"],
+      "pre_chorus": [],
+      "chorus": [1, 6, 2, 4, 5, 1],
+      "end": [5, 1],
+      "extra": []
+    },
+    "lyrics": "Él es el hombre que tuvo poder en andar sobre el mar,\n¿Quién es el que puede hacer el mar callar?\nY en el momento que la tempestad te quiera hundir,\nÉl viene con toda autoridad y manda a calmar.\n\nÉl es el hombre que tuvo poder de hacer a Israel\nCaminar por entre las aguas del mar Rojo.\nHizo un camino en medio del mar para el pueblo de Israel pasar,\nY al otro lado con sus pies secos pudieron cantar el himno de Victoria.\n\nCoro:\nCuando estés frente al mar y lo tengas que atravesar,\nLlama a este hombre con fe, solo Él abre el mar.\nHermano no tengas temor si detrás viene Faraón,\nAl otro lado tu pasarás y allí tu vas a entonar el himno de victoria.\n\nCada vez que el mar Rojo tú tengas que pasar,\nLlama siempre a ese hombre que te va a ayudar.\nEn la hora más difícil es cuando Él te ve,\nLlama siempre a ese hombre que tiene el poder.\nSi tú pasas por el fuego no te vas a quemar,\nY si pasas por las aguas no te ahogarás,\nPasa como Israel que el mar atravesó,\n¡Y en el nombre del Señor, el himno de Victoria del otro lado cantó!"
+  },
+  {
+    "id": 20,
+    "meta": { 
+      "name": "Eres mi plenitud", 
+      "tone_church": "E", 
+      "my_tone": "G",
+      "type": 0
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 2, 3, 2, 1, 5],
+      "pre_chorus": [],
+      "chorus": [],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": "Cristo Jesús, eres mi plenitud\n\nCoro:\nSi te tengo a Ti, lo tengo todo,\nmi amado, mi tesoro,\nfuera de Ti, nada deseo Señor"
+  },
+  {
+    "id": 21,
+    "meta": { 
+      "name": "Te suelto", 
+      "tone_church": "C#", 
+      "my_tone": "C#",
+      "type": 0
+    },
+    "notes": {
+      "intro": [1, 5, 3, 2],
+      "verse": [1, 5, 3, 2],
+      "pre_chorus": [3, 1, 5, 2],
+      "chorus": [3, 1, 5, 2],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": "Verso:\nEs difícil, a veces no se entiende,\nme conoces más que a mí mismo.\nCreer en algo que no veo,\nyo sé que tu plan es perfecto.\n\nPrecoro:\nHazme ver como tú me ves,\nhazme entender y creer sin temer.\n\nCoro:\nTe suelto mis sueños,\nte suelto mis deseos,\ntoma el control de mi vida,\ntu plan en él, no más que el mío.\nTe suelto mis planes,\nte suelto mis decisiones,\ntoma el control de mi vida,\ntu plan en él, no más que el mío.\n\nPrecoro 2:\nLo dejo en tus manos,\núsame Jesús.\nA mi manera no funcionó,\nlo que tú tienes es mejor.\nLo dejo en tus manos,\núsame Jesús.\nA mi manera no funcionó,\nlo que tú tienes es mucho mejor."
+  },
+  {
+    "id": 22,
+    "meta": { 
+      "name": "Si tuvieras fe <-> Bajo la sombra de pedro <-> Elias oraba", 
+      "tone_church": "A#m", 
+      "my_tone": "Em",
+      "type": 1
+    },
+    "notes": {
+      "intro": [1, 6, 5],
+      "verse": [1, 5],
+      "pre_chorus": [],
+      "chorus": [4, 1, 5, 1],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": "<b>Si tuvieras fe como un grano de mostaza</b>\n\nSi tuvieras fe como un grano de mostaza\nEso dice el Señor\n\nTú le dirías a la la montaña\nMuévete, muévete\n\nEsa montaña se moverá\n\n<b>Elías oraba en el monte Carmelo</b>\n\nElías oraba en el monte Carmelo,\npara que el fuego bajara de los cielos.\n\nY cuando él oró, el fuego cayó\ny todo el holocausto allí se consumió.\n\nPero que baje el fuego,\ndescienda la llama,\ndescienda la llama con su poder.\n\nNo te dejaré si no me bendices,\nno te dejaré, aunque raye el alba.\n\nBendíceme ahora, bendíceme ahora.\n\n\n<b>Bajo la sombra de Pedro</b>\n\nBajo la sombra de Pedro sanaban los enfermos//\n\nno era la sombra ni tampoco Pedro//\n\nera porque Pedro tenía el Espíritu del Nazareno//\n\nNazareno, Nazareno, el Espíritu del Nazareno."
+  },
+  {
+    "id": 23,
+    "meta": { 
+      "name": "Beautiful Beautiful", 
+      "tone_church": "Em", 
+      "my_tone": "Em",
+      "type": 1
+    },
+    "notes": {
+      "intro": [1, 6, 7],
+      "verse": [1, 6, 7],
+      "pre_chorus": [],
+      "chorus": [1, 6, 7, 3, 2],
+      "end": ["(",6,7,")//"],
+      "extra": []
+    },
+    "lyrics": "Verse 1:\nDon’t know how it is You looked at me,\nand saw the person that I could be.\nAwakening my heart, breaking through the dark,\nsuddenly Your grace.\n\nChorus:\nLike sunlight burning at midnight,\nmaking my life something so beautiful, beautiful.\nMercy reaching to save me,\nall that I need,\nYou are so beautiful, beautiful.\n\nVerse 2:\nNow there’s a joy inside I can’t contain,\nbut even perfect days can end in rain.\nAnd though it’s pouring down, I see You through the clouds,\nshining on my face.\n\nI have come undone,\nbut I have just begun,\nchanging by Your grace."
+  },
+  {
+    "id": 24,
+    "meta": { 
+      "name": "The breakup Song", 
+      "tone_church": "G", 
+      "my_tone": "G",
+      "type": 0
+    },
+    "notes": {
+      "intro": [1, 6, 4, 1],
+      "verse": [1, 6, 4, 1],
+      "pre_chorus": [],
+      "chorus": [1, 6, 5, 4, 5, 1, 5],
+      "end": [],
+      "extra": ["4,5b,5 y 1,7,6 y 6b-6"]
+    },
+    "lyrics": "Sick and tired of being sick and tired\nHad as much of you as I can take\nI'm so done, so over being afraid\n\nI've gone through the motions\nI've been back and forth\nI know that you're thinking you've heard this before\nI don't know how to say it\nSo I'm just gonna say it, yeah\n\nFear, you don't own me\nThere ain't no room in this story\nAnd I ain't got time for you\nTelling me what I'm not\nLike you know me, well guess what?\nI know who I am\nI know I'm strong\nAnd I am free\nGot my own identity\nSo fear, you will never be welcome here\n\nTake a minute, let it settle in\nYou probably never saw it coming\nSomething's gotta give, so I give up you, oh\nThere's no room for you here\nYeah, I've had enough\nThe 'no vacancy' sign on my heart is lit up\nIn case you didn't hear it\nHere it is again"
+  },
+  {
+    "id": 25,
+    "meta": { 
+      "name": "Fiel", 
+      "tone_church": "F", 
+      "my_tone": "D",
+      "type": 0
+    },
+    "notes": {
+      "intro": [1, 5, 6, 4],
+      "verse": [1, 5, 6, 4],
+      "pre_chorus": [],
+      "chorus": [],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": "Verso 1:\nOh, corazón. Encuentra valor\nRecuerda los días de sus maravillas\nY presta atención. Él es Emanuel\nSiempre ha estado aquí, No olvides su pacto\ndescansa en su abrazo, Y vuelve a decir\n\nCoro:\nDios, Tú eres fiel. Fiel hasta el final\nNunca fallarás, En la tempestad\nsé que sigues siendo fiel\n\nVerso 2:\nY me alegraré. Aun en el dolor\nPues soy tu amado y vivo confiado\nEn mi Salvador. Decido creer\nQue no es el final. Veré la promesa\nTu gracia y tu fuerza me acompañarán\n\nCoro 2:\nPues Tú eres fiel, Fiel hasta el final\nTú nunca fallarás En la tempestad\nsé que sigues siendo rey\nY por la eternidad\nTú nunca cambiarás\nPuedo descansar\nEn que sigues siendo fiel\n\nPuente:\nY si lo pierdo todo\nPero tengo a Cristo\nYo sé que tengo todo lo que necesito\nTú eres mi tesoro. Mi mejor amigo\nYo sé que tengo todo si Tú estás conmigo\n\nCoro Final:\nEres fiel, Fiel hasta el final\nTú nunca fallarás, En la tempestad\nsé que sigues siendo Rey\nY por la eternidad, Tú nunca cambiarás\nPuedo descansar. En que sigues siendo fiel\n\nFiel. Fiel hasta el final. Tú nunca fallarás\nEn la tempestad, sé que sigues siendo rey\nPor la eternidad, Tú nunca cambiarás\nPuedo descansar\nEn que sigues siendo fiel"
+  },
+  {
+    "id": 26,
+    "meta": { 
+      "name": "Borde de su manto", 
+      "tone_church": "Am", 
+      "my_tone": "F#m",
+      "type": 1
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 7, 6],
+      "pre_chorus": [3, 4, 6],
+      "chorus": [3, 5, 1, 7, 6],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": "Verso 1:\nSi tan solo tocare el borde de su manto\nSi tan solo pudiera ver su rostro\nSi tan solo pudiera tocar sus manos\nLibre sería, yo sé\n\nVerso 2:\nSi tan solo tocare el borde de su manto\nSi tan solo pudiera oír su voz\nSi tan solo pudiera acercarme a Él\nLibre sería, yo sé\n\nCoro:\nPorque delante de Ti\nSolo soy alguien que necesita\nUn toque del Maestro\nPara ser liberado\nPorque delante de Ti\nSolo soy alguien que necesita\nUna mirada de mi Salvador\nSu nombre es Jesús\nJesús, Jesús, Jesús, nombre sin igual"
+  },
+  {
+    "id": 27,
+    "meta": { 
+      "name": "Hay libertad", 
+      "tone_church": "Cm", 
+      "my_tone": "Dm",
+      "type": 1
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 6, 3, 7],
+      "pre_chorus": [],
+      "chorus": [],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 28,
+    "meta": { 
+      "name": "Poderoso Dios", 
+      "tone_church": "C", 
+      "my_tone": "D",
+      "type": 0
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 6, 4, 5],
+      "pre_chorus": [],
+      "chorus": [],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 29,
+    "meta": { 
+      "name": "Con tu sangre", 
+      "tone_church": "E", 
+      "my_tone": "C",
+      "type": 0
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 4, 1, 5, 4, 5, 1],
+      "pre_chorus": [],
+      "chorus": [5, 4, 1],
+      "end": [5, 4, 5, 1],
+      "extra": []
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 30,
+    "meta": { 
+      "name": "Padre nuestro - toma tu lugar", 
+      "tone_church": "G", 
+      "my_tone": "C",
+      "type": 0
+    },
+    "notes": {  
+      "intro": [1, 4],
+      "verse": [1, "4-1", 4, 5],
+      "pre_chorus": [],
+      "chorus": [4, "3-2", 6, 5],
+      "end": [4, "1-4", "5-6", 5],
+      "extra": [4,6,5, "y", 7, 1, 5, 3, 2 , "y", 6, 7 ,1]
+    },
+    "lyrics": "Verso:\nPadre Nuestro del cielo,\nTu nombre santo es.\nQue tu reino venga pronto,\ny tu voluntad también.\n\nCoro:\nAquí como en el cielo,\nque el cielo venga.\n\nInstrumental:\nCielo venga.\n\nPuente:\nTuyo es el reino,\ntuyo el poder es.\nTuya es la gloria,\npor siempre, amén."
+  },
+  {
+    "id": 31,
+    "meta": { 
+      "name": "Él Es El Rey", 
+      "tone_church": "G", 
+      "my_tone": "C",
+      "type": 0
+    },
+    "notes": {
+      "intro": [1, 4, 1, 5],
+      "verse": [6, 4, "///", 1, 5],
+      "pre_chorus": [],
+      "chorus": [6, 4, 1, 5, "//"],
+      "end": [4, 5, 6, 4, 2, 5, 6],
+      "extra": []
+    },
+      "lyrics": "Verso 1:\nÉl es el Rey infinito en poder,\nÉl es el Rey de los cielos.\nSeré para Él siervo fiel,\npues mi vida compró con su amor.\n\nVerso 2:\nÉl es el Rey, lo confiesa mi ser,\nÉl es el Rey de los siglos.\nMi vida la rindo a sus pies,\nÉl es Rey sobre mi corazón.\n\nCoro:\nÉl es el Rey, Él es el Rey,\nÉl es el Rey de mi vida.\nÉl es el Rey, Él es el Rey,\nreina con autoridad.\n\nFinal:\nSu reino eterno es,\nsu trono en el cielo es.\nÉl es el Rey que viene\na su pueblo a llevar."
+  },
+  {
+    "id": 32,
+    "meta": { 
+      "name": "Llenas hoy mi corazon con tu presencia", 
+      "tone_church": "G", 
+      "my_tone": "C",
+      "type": 0
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 4, 5],
+      "pre_chorus": [],
+      "chorus": [1, 4, 5, "1-7", 6, 4, 2, 5],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": "Verso 1:\nCon mis manos levantadas hacia el cielo,\nme presento ante ti hoy, mi Señor.\nPara recibir de ti la fuerza y el poder,\npara vivir junto a ti.\n\nVerso 2:\nCon mis manos levantadas hacia el cielo,\nme presento ante ti hoy, mi Señor.\nPara recibir de ti la fuerza y el poder,\npara vivir junto a ti.\n\nCoro:\nLlenas hoy mi corazón con tu presencia,\nllenas de alegría y paz todo mi ser.\nDe cualquier necesidad tú me responderás,\nporque me amas, me amas.\n\nCoro Final:\nLlenas hoy mi corazón con tu presencia,\nllenas de alegría y paz todo mi ser.\nDe cualquier necesidad tú me responderás,\nporque me amas, me amas."
+  },
+  {
+    "id": 33,
+    "meta": { 
+      "name": "La cosecha", 
+      "tone_church": "Am", 
+      "my_tone": "Am",
+      "type": 1
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 6, 3, 5],
+      "pre_chorus": [],
+      "chorus": [6, 7, 5, 1],
+      "end": [5, 1, 5, 1, 6, 7, 5, 1],
+      "extra": ["La" , 5, "es mayor,", "puede ser:", 1, 6, 3, 7]
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 34,
+    "meta": { 
+      "name": "Digno", 
+      "tone_church": "G", 
+      "my_tone": "G",
+      "type": 0
+    },
+    "notes": {
+      "intro": ["Pre y Coro"],
+      "verse": [1, 6, 4, 2, 5],
+      "pre_chorus": [4, 4, "m", 1, 5, 4, 4, "m"],
+      "chorus": [1, 6, 4, 2, 5],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": "Me inclino ante ti\n Rey que perdona, multitud de errores"
+  },
+  {
+    "id": 35,
+    "meta": { 
+      "name": "Al que esta sentado", 
+      "tone_church": "A", 
+      "my_tone": "A",
+      "type": 0
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 6, 4, 2, 5],
+      "pre_chorus": [],
+      "chorus": [],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 36,
+    "meta": { 
+      "name": "Sumergeme", 
+      "tone_church": "C", 
+      "my_tone": "G",
+      "type": 0
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 3, 4, 2, 5],
+      "pre_chorus": [],
+      "chorus": [],
+      "end": [],
+      "extra": ["La intro empieza en:", 1]
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 37,
+    "meta": { 
+      "name": "Aunque mis ojos", 
+      "tone_church": "E", 
+      "my_tone": "F",
+      "type": 0
+    },
+    "notes": {
+      "intro": [1, 6, 4, 5],
+      "verse": [1, 6, 4, 1, 5],
+      "pre_chorus": [],
+      "chorus": [],
+      "end": [],
+      "extra": ["La intro empieza en:", 2]
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 38,
+    "meta": { 
+      "name": "Le llaman guerrero", 
+      "tone_church": "Em", 
+      "my_tone": "Am",
+      "type": 1
+    },
+    "notes": {
+      "intro": [1, 7, "\n", 1, 6, 7 , "\n", 1, 7, 6, 7, 5],
+      "verse": [1, 6, 7, 5],
+      "pre_chorus": [],
+      "chorus": [],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 39,
+    "meta": { 
+      "name": "Jehova es mi guerrero", 
+      "tone_church": "Em", 
+      "my_tone": "Am",
+      "type": 1
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 6, 7, 1],
+      "pre_chorus": [],
+      "chorus": [4, 1, 6, 5, 1],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 40,
+    "meta": { 
+      "name": "Cantare al Señor por siempre", 
+      "tone_church": "Em", 
+      "my_tone": "Am",
+      "type": 1
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 7, 6, 7, 1],
+      "pre_chorus": ["(", 1, 7, ")//"],
+      "chorus": [7, 6, 4, 5],
+      "end": [],
+      "extra": ["La ra la ra la la", 1, 7, 6, 7, 1]
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 41,
+    "meta": { 
+      "name": "Celebra victorioso", 
+      "tone_church": "Em", 
+      "my_tone": "Am",
+      "type": 1
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 6, 7, 5, 1],
+      "pre_chorus": [],
+      "chorus": [1, 6, 7, 1],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 42,
+    "meta": { 
+      "name": "Levantate Señor", 
+      "tone_church": "Am", 
+      "my_tone": "Em",
+      "type": 1
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 6, 7, 1],
+      "pre_chorus": ["(", 4, 7, 1, ")//", 4, 7, 5, 1],
+      "chorus": ["(", 6, 7, 1, ")//", 6, 7 , 5, 1],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 43,
+    "meta": { 
+      "name": "Gracia sublime", 
+      "tone_church": "B", 
+      "my_tone": "C",
+      "type": 0
+    },
+    "notes": {
+      "intro": [1, 4],
+      "verse": [1, 4, 6, 5, 4],
+      "pre_chorus": [],
+      "chorus": [],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 44,
+    "meta": { 
+      "name": "Pues tu glorioso", 
+      "tone_church": "Em", 
+      "my_tone": "Am",
+      "type": 1
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 6, 1, 2, 5],
+      "pre_chorus": [],
+      "chorus": [1, 6, 7, 1],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 45,
+    "meta": { 
+      "name": "Poderoso de Israel", 
+      "tone_church": "Em", 
+      "my_tone": "Am",
+      "type": 1
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 5],
+      "pre_chorus": [],
+      "chorus": [1, 5],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 46,
+    "meta": { 
+      "name": "Digno eres tu Jehova", 
+      "tone_church": "Em", 
+      "my_tone": "Am",
+      "type": 1
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 5],
+      "pre_chorus": [],
+      "chorus": [4, 3, 5, 1],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 47,
+    "meta": { 
+      "name": "Yeshua", 
+      "tone_church": "F", 
+      "my_tone": "C",
+      "type": 0
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 2, 3, 2],
+      "pre_chorus": [],
+      "chorus": [1, 2, 3, 2],
+      "end": [],
+      "extra": [1, 3, 5, 2]
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 48,
+    "meta": { 
+      "name": "Amado de mi alma", 
+      "tone_church": "C", 
+      "my_tone": "G",
+      "type": 0
+    },
+    "notes": {
+      "intro": [1, 2, 6, 5, 1, 5],
+      "verse": [1, "3-4", 5, "6-1", 5],
+      "pre_chorus": [],
+      "chorus": [1, 2, 6, 5, 1, 5],
+      "end": [6, 4, 1, 5, 1, 5],
+      "extra": []
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 49,
+    "meta": { 
+      "name": "Recibe, quiero levantar a ti mis manos", 
+      "tone_church": "Am", 
+      "my_tone": "Em",
+      "type": 1
+    },
+    "notes": {
+      "intro": [],
+      "verse": ["(",1, 6, 3, 7,")//"],
+      "pre_chorus": ["(", 1, 7, 6, ")//", 3, 7],
+      "chorus": [1, 6, 3, 7],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 50,
+    "meta": { 
+      "name": "Señor eres fiel", 
+      "tone_church": "D", 
+      "my_tone": "E",
+      "type": 0
+    },
+    "notes": {
+      "intro": [],
+      "verse": [1, 5, 7, 4],
+      "pre_chorus": [4, 5, 6, 7],
+      "chorus": [1, 5, 7, 4],
+      "end": [],
+      "extra": [1, 1, 7, 7, 6, "\n", 1, 1, 3, 3, 4]
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 51,
+    "meta": { 
+      "name": "El Dios que adoramos", 
+      "tone_church": "E", 
+      "my_tone": "D",
+      "type": 0
+    },
+    "notes": {
+      "intro": [1, 5, 6, 4, 1, 5],
+      "verse": ["(", 1, 5, 6, 4, ")//"],
+      "pre_chorus": [4, 5],
+      "chorus": ["(", 1, 5, 6, 4, 1, 5, ")//"],
+      "end": [],
+      "extra": []
+    },
+    "lyrics": ""
+  },
+  {
+    "id": 52,
+    "meta": { 
+      "name": "Fiesta", 
+      "tone_church": "Cm", 
+      "my_tone": "Dm",
+      "type": 1
+    },
+    "notes": {
+      "intro": [1, 4, 7, 5, "(", 6, 5, ")//"], 
+      "verse": [1, 4, 7, 5],
+      "pre_chorus": [6, 5, 4, 5],
+      "chorus": [1, 4, 7, 5, "(", 6, 5, ")//"],
+      "end": [1, 6],
+      "extra": []
+    },
+    "lyrics": ""
+  }
+]   
+
