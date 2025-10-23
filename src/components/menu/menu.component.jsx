@@ -57,7 +57,7 @@ function Menu() {
                 <a className="menu__container_info_github" href="https://github.com/redfieldfire">
                     <FaGithub size={24} color="white" />
                 </a>
-                <a className="menu__container_info_download-cv" href="https://drive.google.com/file/d/1ZJgD9kbIlj0HW8-_xE0BPjZky12dGl0n/view?usp=sharing">
+                <a className="menu__container_info_download-cv" href="https://drive.google.com/file/d/1MdyC4vD5c-20N5un4Z_CHrQiSYyAIfYv/view?usp=sharing">
                     <MdDownload size={24} color="white" />
                     Curriculum
                 </a>
