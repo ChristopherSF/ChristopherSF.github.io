@@ -2,11 +2,21 @@ import './experience.style.scss'
 import despacho from '../../../assets/experience-logo-comapnies/despacho-contable-mg.png'
 import freelancer from '../../../assets/experience-logo-comapnies/freelancer.png'
 import controlla from '../../../assets/experience-logo-comapnies/controlla.png'
+import safran from '../../../assets/experience-logo-comapnies/safran.png'
 import ExperienceTimeline from '../../experience-timeline/experience-timeline.component'
 
 function Experience() {
 
     const companies = [
+        {
+            image: safran,
+            title: "Safran Electrical and Power",
+            position: "Software Developer",
+            time: "1 Year (currently working)",
+            description: <>Develop a software with <b>python</b> using a library called <b>Parapy</b> for rendering 3D models</>,
+            technologies: ['python', 'parapy'],
+            with_connection: false
+        },
         { 
             image: controlla,
             title: "Controlla",
@@ -14,7 +24,7 @@ function Experience() {
             time: "2 years",
             description: <>Participating in <b>support and development</b> area, where I had to be providing customer support to solve bugs and implement improvements</>,
             technologies: ['vue', 'ts', 'js', 'laravel', 'mysql'],
-            with_connection: false 
+            with_connection: true 
         },
         {
             image: freelancer,
